@@ -1,45 +1,4 @@
-# File Sharing Bot Modified Version
 
-<b>A Telegram Special File Sharing Bot Who Made A Link Of File And You Can Access File Through Link.</b>
-
-
-
-### Features
-- File sharing modified version made by - [@Its_Oreki_Hotarou](https://t.me/Its_Oreki_Hotarou)**
-- Fully customisable.
-- Two Force Sub Channels.
-- Also working on Render Or Koyeb.
-- Customisable welcome & Forcesub messages.
-- More than one Posts in One Link.
-- Can be deployed on heroku directly.
-
-### Setup
-
-- Add the bot to Database Channel with all permission
-- Add bot to ForceSub channel as Admin with Invite Users via Link Permission if you enabled ForceSub 
-
-##
-### Installation
-#### Deploy on Heroku
-**BEFORE YOU DEPLOY ON HEROKU, YOU SHOULD FORK THE REPO AND CHANGE ITS NAME TO ANYTHING ELSE**<br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)</br>
-
-##
-## Installation
-#### Deploy on Render
-<b>BEFORE DEPLOY ON RENDER, FORK REPO EDIT CONFIG, CREATE NEW WEB-SERVICE ADD VARIABLES AND ADD MONITOR THATS IT</b>
-
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com)
-
-##
-#### Deploy in your VPS
-````bash
-git clone https://github.com/Sahil0976/MultiForce-Sub
-cd File-Sharing-Bot
-pip3 install -r requirements.txt
-# <Create config.py appropriately>
-python3 main.py
-````
 
 ### Admin Commands
 
